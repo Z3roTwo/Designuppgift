@@ -1,3 +1,1 @@
-# Viktors Vinklar
-
-Design
+# Designuppgift
